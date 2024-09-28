@@ -92,7 +92,9 @@ bash
 
 git clone 
 
-https://github.com/your-username/sales-analysis-report.git
+
+https://github.com/l-negha/dashboard
+
 
 **3. Open in Power BI Desktop**:
 
