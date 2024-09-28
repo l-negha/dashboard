@@ -24,13 +24,13 @@ This project provides an in-depth sales report analysis, visualized using Power 
 
 The visualizations help to:
 
-**1**Understand sales distribution by customer segment.
+**1**. Understand sales distribution by customer segment.
 
-**2**Analyze profits across regions and states.
+**2**. Analyze profits across regions and states.
 
-**3**Identify top-selling product categories.
+**3**. Identify top-selling product categories.
 
-**4**Examine time-series sales performance by order date.
+**4**. Examine time-series sales performance by order date.
 
 
 
@@ -53,25 +53,25 @@ The key visualizations included in the report are:
 
 **Key Metrics:**
 
-**.Sum of Profit**: $286.4K
+**1. Sum of Profit**: $286.4K
 
-**.Sum of Quantity**: 38K
+**2. Sum of Quantity**: 38K
 
-**.Sum of Postal Code**: 552M
+**3. Sum of Postal Code**: 552M
 
-**.Sum of Day**: 23K
+**4. Sum of Day**: 23K
 
 
 
 **Key Insights**
 
-**.Top-Selling Segment**: Consumer segment leads with 51.5% of total sales.
+**1. Top-Selling Segment**: Consumer segment leads with 51.5% of total sales.
 
-**.Profitable Products**: Phones, Chairs, and Storage are the highest revenue-generating sub-categories.
+**2. Profitable Products**: Phones, Chairs, and Storage are the highest revenue-generating sub-categories.
 
-**.Regional Performance**: The West region accounts for 17.6% of sales, while the South performs best with 29.5%.
+**3. Regional Performance**: The West region accounts for 17.6% of sales, while the South performs best with 29.5%.
 
-**.Sales Trends**: There is a noticeable peak in sales during 2019, followed by some fluctuations in later years.
+**4. Sales Trends**: There is a noticeable peak in sales during 2019, followed by some fluctuations in later years.
 
 
 
@@ -83,10 +83,12 @@ A dataset containing sales metrics, including Order Date, Profit, Quantity, Stat
 
 
 **How to Use**
-**1**. Clone the repository:
+**1**. **Clone** the repository:
 
 bash
-**2**. Copy code
+
+**2. Copy code**
+
 git clone https://github.com/your-username/sales-analysis-report.git
 
 **3**. Open in Power BI Desktop:
@@ -94,6 +96,7 @@ git clone https://github.com/your-username/sales-analysis-report.git
 Download and open the Power BI report file (Sales_Analysis_Report.pbix).
 
 Refresh the dataset to load the latest sales data.
+
 **4**. Explore the Dashboard:
 
 Interact with the charts and graphs to explore different sales trends and insights.
