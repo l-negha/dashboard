@@ -83,21 +83,24 @@ A dataset containing sales metrics, including Order Date, Profit, Quantity, Stat
 
 
 **How to Use**
+
 **1**. **Clone** the repository:
 
 bash
 
 **2. Copy code**
 
-git clone https://github.com/your-username/sales-analysis-report.git
+git clone 
 
-**3**. Open in Power BI Desktop:
+https://github.com/your-username/sales-analysis-report.git
+
+**3. Open in Power BI Desktop**:
 
 Download and open the Power BI report file (Sales_Analysis_Report.pbix).
 
 Refresh the dataset to load the latest sales data.
 
-**4**. Explore the Dashboard:
+**4. Explore the Dashboard**:
 
 Interact with the charts and graphs to explore different sales trends and insights.
 
